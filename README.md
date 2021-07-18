@@ -2,7 +2,6 @@
  test for apply to Sofka U
 
 Built With
-I used this programming languages
 *JavaScript
 *Html 5
 *Css 3
@@ -10,7 +9,7 @@ I used this programming languages
 Getting Started
 
 1. Download the repository
-2. Oppen the file "Abrir.html"
+2. Open the file "Abrir.html"
 3. Enjoy
 
 Prerequisites
@@ -19,7 +18,7 @@ Prerequisites
 
 Usage
 1. Click on the button "go!" to start the game, at the bottom will appear the position of each car.
-2. If you want reset the score borad, just click on the "Reset" button.
+2. If you want reset the score board, just click on the "Reset" button.
 
 Contact
 
