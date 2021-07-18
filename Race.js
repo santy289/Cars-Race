@@ -117,20 +117,11 @@ function dibujar(){
     if (carro_uno.loadOk){
         papel.drawImage (carro_uno.objeto, carro_uno.route, 25)
     }
-    else {
-        papel.drawImage (carro_uno.objeto, carro_uno.route, 25)
-    }
     if (carro_dos.loadOk){
         papel.drawImage (carro_dos.objeto, carro_dos.route, 170)
     }
-    else{
-        papel.drawImage (carro_dos.objeto, carro_uno.route, 170)
-    }
     if (carro_tres.loadOk){
         papel.drawImage (carro_tres.objeto, carro_tres.route, 370)
-    }
-    else {
-        papel.drawImage (carro_tres.objeto, carro_uno.route, 370)
     }
 }
 function carrera(){
